@@ -1,0 +1,3 @@
+[submodule "src/label-assignment-shapes-skeleton"]
+	path = src/label-assignment-shapes-skeleton
+	url = https://github.com/MariyaBes/AndroidStudio.git
